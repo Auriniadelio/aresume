@@ -23,7 +23,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      
+      wrapper_class: bg-black bg-opacity-70 rounded-lg p-6
       background:
         color: black
         image:
