@@ -27,7 +27,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: floralbackgroundwoodencropped.jpg
+          filename: floral2.jpg
           filters:
             brightness: 1.0
           size: cover
