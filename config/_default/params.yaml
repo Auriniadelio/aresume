@@ -8,6 +8,10 @@ appearance:
   mode: system
   color: emerald
 
+# config.yaml
+params:
+  customCSS:
+    - "css/custom.css"
 # SEO
 marketing:
   seo:
@@ -59,7 +63,4 @@ features:
   privacy_pack:
     enable: false
 
-# config.yaml
-params:
-  customCSS:
-    - "css/custom.css"
+
