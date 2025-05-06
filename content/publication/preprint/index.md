@@ -63,7 +63,7 @@ links:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/640px-Example.jpg" alt="Test image" width="600">
 
-<img src="/uploads/Funrun2.jpg" alt="The shirt I helped design" width="600">
+<img src="https://i.imgur.com/iWvphBA.jpeg" alt="The shirt I helped design" width="600">
 
 <img src="/media/blue.jpg" alt="The shirt I helped design" width="600">
 
