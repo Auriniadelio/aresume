@@ -24,7 +24,7 @@ sections:
     design:
       css_class: dark
       wrapper_class: "bg-black/80 text-white rounded-lg p-6"
-      wrapper_class: "text-white rounded-lg p-6"
+      
       background:
         color: black
         image:
