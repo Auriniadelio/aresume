@@ -1,6 +1,6 @@
 ---
 # Display name
-title: RAJA NURDINI DAHLEAa
+title: RAJA NURDINI DAHLEA
 
 # Name pronunciation (optional)
 name_pronunciation: 
