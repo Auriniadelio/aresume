@@ -3,11 +3,11 @@
 title: RAJA NURDINI DAHLEA
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Raja Nurdini Dahlea
+last_name: Raja Alfie Marzuanie
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universiti Kebangsaan Malaysia (UKM)
+    url: https://www.ukm.my/portalukm/ms/selamat-datang/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ddahlea
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ddahlea
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
