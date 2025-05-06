@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: See my introduction video!
+        text: intro video!
         url: uploads/resume.pdf
       button:
         text: Download CV
