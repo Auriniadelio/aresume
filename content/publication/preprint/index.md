@@ -44,9 +44,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
-image:
-  filename: "uploads/Funrun2.jpg"
-  alt: "The shirt i helped design"
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,9 +60,10 @@ image:
 #   Otherwise, set `slides: ""`.
 
 ---
-<palign="center">
-  <img src="/uploads/Funrun2.jpg" width="600">
-</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/640px-Example.jpg" alt="Test image" width="600">
+
+
 
 
 Note: Coordinated and designed the program's tshirt
