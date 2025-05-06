@@ -76,7 +76,7 @@ education:
   - area: Bachelor of Dietetics with Honours
     institution: UKM
     date_start: 2024-08-01
-    date_end: Present
+    date_end: "Present"
     summary: |
       Currently in the 2nd semester of the first year
 work:
