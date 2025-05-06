@@ -75,5 +75,6 @@ featured: true
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+<img src="https://imgur.com/a/Gr6mgrz"  width="600">
 
 Note: participated and opened a booth for the festival
