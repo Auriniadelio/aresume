@@ -62,8 +62,8 @@ image:
 #   Otherwise, set `slides: ""`.
 
 ---
-<p align="center">
-  <img src="/uploads/Funrun2.jpg" alt="The shirt I helped design" width="600">
+<palign="center">
+  <img src="/uploads/Funrun2.jpg" width="600">
 </p>
 
 
