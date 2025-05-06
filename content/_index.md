@@ -19,7 +19,7 @@ sections:
         text: intro video!
         url: uploads/resume.pdf
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark

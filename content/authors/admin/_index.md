@@ -82,24 +82,6 @@ education:
     
     summary: |
       Currently in the 2nd semester of the first year
-work:
-  - position: any job
-    company_name: company name
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      
-  - position: job2
-    company_name: j
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
