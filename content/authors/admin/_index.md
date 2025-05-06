@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Cafe Hopping
   - Computational Linguistics
   - Information Retrieval
 
