@@ -30,20 +30,22 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+    wrapper_class: "bg-black/80 text-white rounded-lg p-6"
+
+  -icon: at-symbol
     url: 'mailto:dinidahlea9@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  -icon: brands/x
     url: https://twitter.com/
-  - icon: brands/instagram
+  -icon: brands/instagram
     url: https://www.instagram.com/ddahlea
-  - icon: brands/github
+  -icon: brands/github
     url: https://github.com/ddahlea
-  - icon: brands/linkedin
+  -icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+  -icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  -icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
