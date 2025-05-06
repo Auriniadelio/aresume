@@ -43,7 +43,9 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-
+image:
+  filename: "uploads/Funrun2.jpg"
+  alt: "The shirt i helped design"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
