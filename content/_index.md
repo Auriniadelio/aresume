@@ -22,7 +22,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: "relative hbb-section block-resume-biography-3 dark bg-black"
       wrapper_class: "bg-black/80 text-white rounded-lg p-6"
       background:
         color: black
