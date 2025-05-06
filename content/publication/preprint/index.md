@@ -17,7 +17,7 @@ publishDate: "2023-10-01"
 publication: ""
 publication_short: ""
 
-Note: Coordinated and designed the program's tshirt
+
 
 # Summary. An optional shortened abstract.
 summary: Coordinated and designed the program's tshirt
@@ -59,5 +59,4 @@ links:
 #   Otherwise, set `slides: ""`.
 
 ---
-
-Note:
+Note: Coordinated and designed the program's tshirt
