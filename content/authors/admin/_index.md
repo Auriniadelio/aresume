@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Cafe Hopping
-  - Computational Linguistics
-  - Information Retrieval
+  - Photography
+  - Music
 
 education:
   - area: Sijil Pelajaran Malaysia
@@ -73,6 +73,9 @@ education:
       - Foundation in Biology I & II
       - Foundation in Physics I & II
       - Foundation in Mathematics I & Mathematics II for Scientist
+    button:
+      text: 'See Foundation in Science certification'
+      url: 'https://example.com'
   - area: Bachelor of Dietetics with Honours
     institution: UKM
     date_start: 2024-08-01
