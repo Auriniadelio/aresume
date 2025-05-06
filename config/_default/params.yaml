@@ -9,8 +9,7 @@ appearance:
   color: emerald
 
 # config.yaml
-params:
-  customCSS:
+customCSS:
     - "css/custom.css"
 # SEO
 marketing:
