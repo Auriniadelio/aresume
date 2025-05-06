@@ -22,13 +22,13 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: "relative hbb-section block-resume-biography-3 dark bg-black"
-      wrapper_class: "bg-black/80 text-white rounded-lg p-6"
+      css_class: dark
+     
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: floral2.jpg
+          filename: OSZEOQ0.jpg
           filters:
             brightness: 1.0
           size: cover
