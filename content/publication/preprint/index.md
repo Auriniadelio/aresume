@@ -43,6 +43,7 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+
 image:
   filename: "uploads/Funrun2.jpg"
   alt: "The shirt i helped design"
@@ -61,4 +62,7 @@ image:
 #   Otherwise, set `slides: ""`.
 
 ---
+![The shirt I helped design](/uploads/Funrun2.jpg)
+
 Note: Coordinated and designed the program's tshirt
+
