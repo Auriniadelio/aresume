@@ -2,7 +2,7 @@
 title: "FUN RUN ASiD RUNNING CLUB (ARC) 2023/2024"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
