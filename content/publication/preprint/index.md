@@ -62,7 +62,10 @@ image:
 #   Otherwise, set `slides: ""`.
 
 ---
-![The shirt I helped design](/uploads/Funrun2.jpg)
+<p align="center">
+  <img src="/uploads/Funrun2.jpg" alt="The shirt I helped design" width="600">
+</p>
+
 
 Note: Coordinated and designed the program's tshirt
 
