@@ -53,9 +53,6 @@ sections:
         📄 Download Resume
         </a>
 
-        {{< button href="uploads/resume.pdf" icon="download" target="_blank" >}}
-        📄 Download Resume
-        {{< /button >}}
 
         Click the button below to see and download my resume!
       button:
@@ -63,6 +60,22 @@ sections:
         url: uploads/resume.pdf  
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: '📄 My Resume'
+      subtitle: ''
+      text: |-
+        Click the button below to download my resume.
+    design:
+      columns: '1'
+
+  - block: button
+    content:
+      text: 📄 Download Resume
+      url: uploads/resume.pdf
+      icon: download     
+    design:
+      align: center      
 
   - block: collection
     id: activities
