@@ -48,7 +48,8 @@ sections:
       title: '📜 My Resume'
       subtitle: ''
       text: |-
-        
+        [🔗 **Download Resume**](uploads/resume.pdf)
+
         [🔗 Download Resume](/uploads/resume.pdf)
 
         Click the button above to see and download my resume!
