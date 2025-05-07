@@ -63,7 +63,7 @@ links:
 
 <img src="https://i.imgur.com/iWvphBA.jpeg" alt="The shirt I helped design" width="600">
 
-<img src="uploads/Funrun2.jpg" alt="The shirt I helped design" width="600">
+<img src="/uploads/Funrun2.jpg" alt="The shirt I helped design" width="600">
 
 Note: Coordinated and designed the program's tshirt
 
