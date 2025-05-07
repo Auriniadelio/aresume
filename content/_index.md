@@ -47,6 +47,8 @@ sections:
       title: '📚 My Resume'
       subtitle: ''
     text: |-
+      [**📄 Download Resume**](uploads/resume.pdf)
+
       <a href="uploads/resume.pdf" target="_blank" class="button">
         📄 Download Resume
       </a>
