@@ -58,6 +58,19 @@ sections:
         url: uploads/resume.pdf  
     design:
       columns: '1'
+  - block: html
+    content: |-
+      <div class="text-center">  
+        <a
+          href="/uploads/resume.pdf"
+          target="_blank"
+          role="button"
+          class="inline-flex items-center px-4 py-2 rounded-lg bg-primary hover:bg-primary-dark text-white"
+        >
+          <svg class="w-4 h-4 mr-2"><use href="#icon-download"/></svg>
+          Download Resume
+        </a>
+      </div>
 
   - block: collection
     id: activities
