@@ -19,8 +19,8 @@ sections:
         text: intro video!
         url: https://youtu.be/CwoTlvE2A9Q?si=4LigRw0sQNGLp6bg
       button:
-        text: Download Resume
-        url: uploads/resume.pdf
+        text: Intro Video!
+        url: https://youtu.be/CwoTlvE2A9Q?si=4LigRw0sQNGLp6bg
     design:
       css_class: dark
      
@@ -42,6 +42,18 @@ sections:
         As a dedicated full-time student and an aspiring future dietitian that is willing to give out the best for the sake of public’s health. Someone that takes pride in nutrition and how it affects one’s way of living. Is optimistic in finding opportunities to apply knowledge in real-world and professional setting.
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: '📚 My Resume'
+      subtitle: ''
+      text: |-
+        Click here to see and download my resume!
+      button:
+        text: Download Resume
+        url: uploads/resume.pdf  
+    design:
+      columns: '1'
+
   - block: collection
     id: activities
     content:
