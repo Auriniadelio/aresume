@@ -61,7 +61,7 @@ education:
       7A 2B
     button:
       text: 'See SPM certification'
-      url: 'aresume/static/uploads/SPMRESULT.pdf'
+      url: 'uploads/SPMRESULT.pdf'
   - area: Foundation in Science
     institution: UiTM Dengkil
     date_start: 2023-07-01
