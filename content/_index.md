@@ -53,6 +53,10 @@ sections:
         📄 Download Resume
         </a>
 
+        {{< button href="uploads/resume.pdf" icon="download" target="_blank" >}}
+        📄 Download Resume
+        {{< /button >}}
+
         Click the button below to see and download my resume!
       button:
         text: 📄 Download Resume
