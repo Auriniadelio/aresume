@@ -65,17 +65,15 @@ sections:
       title: '📄 My Resume'
       subtitle: ''
       text: |-
+        <a
+        href="uploads/resume.pdf"
+        target="_blank"
+        role="button"
+        class="inline-block px-5 py-2 rounded-lg bg-gray-700 hover:bg-gray-600 text-white"
+        >
         Click the button below to download my resume.
     design:
-      columns: '1'
-
-  - block: button
-    content:
-      text: 📄 Download Resume
-      url: uploads/resume.pdf
-      icon: download     
-    design:
-      align: center      
+      columns: '1'    
 
   - block: collection
     id: activities
