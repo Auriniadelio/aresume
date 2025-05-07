@@ -46,6 +46,9 @@ sections:
     content:
       title: '📚 My Resume'
       subtitle: ''
+      button:
+        text: Download Resume
+        url: uploads/resume.pdf 
       text: |-
         Click here to see and download my resume!
       button:
