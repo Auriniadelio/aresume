@@ -61,13 +61,7 @@ sections:
         url: uploads/resume.pdf  
     design:
       columns: '1'
-  - block: button
-    content:
-      text: 📄 Download Resume
-      url: uploads/resume.pdf
-      icon: download        # <-- optional, adds the download icon
-    design:
-      align: center
+
   - block: collection
     id: activities
     content:
