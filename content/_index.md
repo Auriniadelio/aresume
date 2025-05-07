@@ -49,6 +49,7 @@ sections:
       
       text: |-
         [**📄 Download Resume**](uploads/resume.pdf)
+        
         Click here to see and download my resume!
       button:
         text: Download Resume
