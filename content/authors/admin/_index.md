@@ -72,6 +72,7 @@ education:
       Courses included:
       - Foundation in Biology I & II
       - Foundation in Physics I & II
+      - Foundation in Chemistry I & II
       - Foundation in Mathematics I & Mathematics II for Scientist
     button:
       text: 'See Foundation in Science certification'
