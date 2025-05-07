@@ -50,7 +50,8 @@ sections:
       text: |-
         <div class="text-center">
           <a
-            href="/uploads/resume.pdf"
+            [📄 Download Resume](/uploads/resume.pdf)
+
             target="_blank"
             class="inline-flex items-center px-4 py-2 rounded-lg bg-primary hover:bg-primary-dark text-white"
             role="button"
