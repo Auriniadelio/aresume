@@ -48,17 +48,8 @@ sections:
       title: '📚 My Resume'
       subtitle: ''
       text: |-
-        [**📄 Download Resume**](uploads/resume.pdf)
+        [📄 **Download Resume**](uploads/resume.pdf){.inline-flex .items-center .px-4 .py-2 .rounded-lg .bg-primary .hover:bg-primary-dark .text-white}
 
-      <a
-        href="uploads/resume.pdf"
-        target="_blank"
-        role="button"
-        class="inline-flex items-center px-4 py-2 rounded-lg bg-primary hover:bg-primary-dark text-white"
-      >
-        <svg class="w-4 h-4 mr-2"><use href="#icon-download"></use></svg>
-        Download Resume
-      </a>
 
         Click the button below to see and download my resume!
       align: center
