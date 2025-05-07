@@ -76,7 +76,7 @@ education:
       - Foundation in Mathematics I & Mathematics II for Scientist
     button:
       text: 'See Foundation in Science certification'
-      url: '/uploads/FOUNDATIONRESULT.pdf'
+      url: 'static/uploads/FOUNDATIONRESULT.pdf'
 
   - area: Malaysian University English Text (MUET)
     institution: Majlis Peperiksaan Malaysia
