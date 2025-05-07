@@ -43,6 +43,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: resume
     content:
       title: '📚 My Resume'
       subtitle: ''

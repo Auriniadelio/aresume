@@ -7,9 +7,12 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Resume
+    url: /#resume
+    weight: 11  
   - name: Activities
     url: /#activities
-    weight: 11
+    weight: 12
   - name: Education
     url: experience/
     weight: 20
