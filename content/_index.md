@@ -48,8 +48,6 @@ sections:
       title: '📚 My Resume'
       subtitle: ''
       text: |-
-        [📄 **Download Resume**](uploads/resume.pdf){.inline-flex .items-center .px-4 .py-2 .rounded-lg .bg-primary .hover:bg-primary-dark .text-white}
-
         <div class="text-center">
           <a
             href="/uploads/resume.pdf"
@@ -58,7 +56,7 @@ sections:
             role="button"
           >
             <svg class="w-4 h-4 mr-2"><use href="#icon-download"/></svg>
-            Download Resume
+           📄 Download Resume
           </a>
         </div>
 
