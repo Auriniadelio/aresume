@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: intro video!
-        url: uploads/resume.pdf
+        url: https://youtu.be/CwoTlvE2A9Q?si=4LigRw0sQNGLp6bg
       button:
         text: Download Resume
         url: uploads/resume.pdf
