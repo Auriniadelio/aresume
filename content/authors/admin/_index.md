@@ -2,6 +2,12 @@
 # Display name
 title: RAJA NURDINI DAHLEA
 
+title: "About"
+typedStrings:
+  - "hello world"
+  - "meet our team"
+  - "thanks for stopping by"
+
 # Name pronunciation (optional)
 name_pronunciation: 
 
