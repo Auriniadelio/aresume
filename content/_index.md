@@ -46,14 +46,11 @@ sections:
     content:
       title: '📚 My Resume'
       subtitle: ''
-      
-      text: |-
-        [**📄 Download Resume**](uploads/resume.pdf)
-        
-        Click here to see and download my resume!
-      button:
-        text: Download Resume
-        url: uploads/resume.pdf  
+    text: >-
+      Click the button below to see and download my resume!
+    button:
+      text: 📄 Download Resume
+      url: uploads/resume.pdf  
     design:
       columns: '1'
 
