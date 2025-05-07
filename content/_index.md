@@ -61,7 +61,7 @@ sections:
         </div>
 
 
-        Click the button below to see and download my resume!
+        Click the button above to see and download my resume!
       align: center
       button:
         text: 📄 Download Resume
