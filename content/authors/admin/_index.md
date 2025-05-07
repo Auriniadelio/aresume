@@ -168,13 +168,11 @@ languages:
 awards:
 
 ---
-  <div class="unit-80">
-				<h1>I live in<br><span id="typed"></span></h1>
-	</div>
 ## About Me
   <div
     {{ partial "typed.html" . }}
-    
+    class="unit-80">
+				<h1>I live in<br><span id="typed"></span></h1>
 Greetings, my name Raja Nurdini Dahlea binti Raja Alfie Marzuanie.
 I am based in Subang Jaya, Selangor. I am currently in my second semester of my first year of degree in Dietetics. Here is the link to my introduction video:
    </div>
