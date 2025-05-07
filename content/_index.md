@@ -8,13 +8,6 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-title: "Home"
-typedStrings:
-  - "far northern sky"
-  - "your galaxy"
-  - "everywhere"
-
-
 sections:
   - block: resume-biography-3
     content:

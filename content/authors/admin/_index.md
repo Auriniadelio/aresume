@@ -2,8 +2,6 @@
 # Display name
 title: RAJA NURDINI DAHLEA
 
-
-
 # Name pronunciation (optional)
 name_pronunciation: 
 
