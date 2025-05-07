@@ -62,4 +62,13 @@ features:
   privacy_pack:
     enable: false
 
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+        attribute: true
+    renderer:
+      unsafe: true
 
