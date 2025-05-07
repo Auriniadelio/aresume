@@ -49,6 +49,10 @@ sections:
       text: |-
         [**📄 Download Resume**](uploads/resume.pdf)
 
+        <a class="btn btn-primary" href="uploads/resume.pdf" target="_blank" role="button">
+        📄 Download Resume
+        </a>
+
         Click the button below to see and download my resume!
       button:
         text: 📄 Download Resume
