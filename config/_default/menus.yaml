@@ -10,7 +10,7 @@ main:
   - name: Activities
     url: /#activities
     weight: 11
-  - name: Experience
+  - name: Education
     url: experience/
     weight: 20
 
