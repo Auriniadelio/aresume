@@ -156,3 +156,6 @@ awards:
 Greetings, my name Raja Nurdini Dahlea binti Raja Alfie Marzuanie.
 I am based in Subang Jaya, Selangor. I am currently in my second semester of my first year of degree in Dietetics. Here is the link to my introduction video:
 
+<a href="uploads/resume.pdf" target="_blank">
+  <button>Download Resume</button>
+</a>
