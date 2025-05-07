@@ -61,7 +61,7 @@ education:
       7A 2B
     button:
       text: 'See SPM certification'
-      url: 'uploads/SPMRESULT.pdf'
+      url: '/uploads/SPMRESULT.pdf'
   - area: Foundation in Science
     institution: UiTM Dengkil
     date_start: 2023-07-01
@@ -76,7 +76,7 @@ education:
       - Foundation in Mathematics I & Mathematics II for Scientist
     button:
       text: 'See Foundation in Science certification'
-      url: 'uploads/FOUNDATIONRESULT.pdf'
+      url: '/uploads/FOUNDATIONRESULT.pdf'
 
   - area: Malaysian University English Text (MUET)
     institution: Majlis Peperiksaan Malaysia
@@ -85,7 +85,7 @@ education:
 
     button:
       text: 'See MUET Results'
-      url: 'uploads/MUETRESULT.pdf'
+      url: '/uploads/MUETRESULT.pdf'
 
   - area: Bachelor of Dietetics with Honours
     institution: UKM
