@@ -56,6 +56,7 @@ sections:
 
 
         Click the button below to see and download my resume!
+      align: center
       button:
         text: 📄 Download Resume
         url: uploads/resume.pdf  
