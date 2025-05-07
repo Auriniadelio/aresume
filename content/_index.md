@@ -54,21 +54,19 @@ sections:
         📄 Download Resume
         </a>
 
-        <a
-        href="uploads/resume.pdf"
-        target="_blank"
-        role="button"
-        class="inline-block px-5 py-2 rounded-lg bg-gray-700 hover:bg-gray-600 text-white"
-        >
-
-
         Click the button below to see and download my resume!
       button:
         text: 📄 Download Resume
         url: uploads/resume.pdf  
     design:
       columns: '1'
-
+  - block: button
+    content:
+      text: 📄 Download Resume
+      url: uploads/resume.pdf
+      icon: download        # <-- optional, adds the download icon
+    design:
+      align: center
   - block: collection
     id: activities
     content:
