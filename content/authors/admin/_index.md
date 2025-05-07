@@ -164,15 +164,6 @@ awards:
 ---
 
 ## About Me
-  <div class="unit-80">
-		<h1>I live in<br><span id="typed"></span></h1>
-	</div>
-  <script>
-    function newTyped(){}$(function(){$("#typed").typed({
-		strings: ["far northern sky", "your galaxy", "everywhere"],
-
-	  typeSpeed:90,backDelay:700,contentType:"html",loop:!0,resetCallback:function(){newTyped()}}),$(".reset").click(function(){$("#typed").typed("reset")})});
-  </script>
 Greetings, my name Raja Nurdini Dahlea binti Raja Alfie Marzuanie.
 I am based in Subang Jaya, Selangor. I am currently in my second semester of my first year of degree in Dietetics. Here is the link to my introduction video:
 
