@@ -76,7 +76,7 @@ education:
       - Foundation in Mathematics I & Mathematics II for Scientist
     button:
       text: 'See Foundation in Science certification'
-      url: 'static/uploads/FOUNDATIONRESULT.pdf'
+      url: 'https://drive.google.com/file/d/1_rJh78kpf7BEynxnxUs8HvKbFPtsAv81/view?usp=sharing'
 
   - area: Malaysian University English Text (MUET)
     institution: Majlis Peperiksaan Malaysia
@@ -85,7 +85,7 @@ education:
 
     button:
       text: 'See MUET Results'
-      url: '/uploads/MUETRESULT.pdf'
+      url: 'https://drive.google.com/file/d/1wikDZhonvLIQMWKPoavuZB7SU8saKfvW/view?usp=sharing'
 
   - area: Bachelor of Dietetics with Honours
     institution: UKM
