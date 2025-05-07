@@ -45,7 +45,7 @@ sections:
   - block: markdown
     id: resume
     content:
-      title: '📚 My Resume'
+      title: '📜 My Resume'
       subtitle: ''
       text: |-
         <div class="text-center">
@@ -56,7 +56,7 @@ sections:
             role="button"
           >
             <svg class="w-4 h-4 mr-2"><use href="#icon-download"/></svg>
-           📄 Download Resume
+           🔗 Download Resume
           </a>
         </div>
 
