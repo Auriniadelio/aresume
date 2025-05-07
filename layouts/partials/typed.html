@@ -1,0 +1,20 @@
+<div class="unit-80">
+    <h1><br><span id="typed"></span></h1>
+  </div>
+  <script>
+    (function($){
+      var strings = {{ with .Params.typedStrings }}
+                        {{ . | jsonify }}
+                    {{ else }}
+                        {{ site.Data.typed.strings | jsonify }}
+                    {{ end }};
+      $("#typed").typed({
+        strings: strings,
+        typeSpeed: 90,
+        backDelay: 700,
+        contentType: "html",
+        loop: true
+      });
+    })(jQuery);
+  </script>
+  
