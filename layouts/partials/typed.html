@@ -1,6 +1,13 @@
 <div class="unit-80">
+    id="typed-wrapper"
+    data-typed-strings= '{{ with .Params.typedStrings }}
+                        {{ . | jsonify | safeJS }}
+                        {{ else }}
+                        {{ site.Data.typed.strings | jsonify | safeJS }}
+                        {{ end }}'
+        
     <h1><br><span id="typed"></span></h1>
-  </div>
+</div>
   <script>
     (function($){
       var strings = {{ with .Params.typedStrings }}
