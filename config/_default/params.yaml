@@ -71,19 +71,3 @@ markup:
         attribute: true
     renderer:
       unsafe: true
-{{ with .Params.education }}
-  <ul>
-  {{ range . }}
-    <li>
-      <h3>{{ .area }} – {{ .institution }}</h3>
-      {{ if .button }}
-        {{ $href := .button.url | absURL }}
-        <a class="btn" href="{{ $href }}">
-          {{ .button.text }}
-        </a>
-      {{ end }}
-    </li>
-  {{ end }}
-  </ul>
-{{ end }}
-
