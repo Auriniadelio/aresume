@@ -2,11 +2,7 @@
 # Display name
 title: RAJA NURDINI DAHLEA
 
-title: "About"
-typedStrings:
-  - "hello world"
-  - "meet our team"
-  - "thanks for stopping by"
+
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -171,4 +167,4 @@ awards:
 ## About Me
 Greetings, my name Raja Nurdini Dahlea binti Raja Alfie Marzuanie.
 I am based in Subang Jaya, Selangor. I am currently in my second semester of my first year of degree in Dietetics. Here is the link to my introduction video:
-
+</div>
